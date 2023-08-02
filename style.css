@@ -39,7 +39,7 @@ figcaption
     font-size: 15px;
     margin-top: 0.7rem;
 }
-#input{
+input{
     width: 40%;
     
     padding: 10px ;
@@ -53,7 +53,7 @@ figcaption
     margin-left: 25%;
 }
 
-#search_button{
+search_button{
     padding: 10px;
     background-color: #138065;
     color: #fff;
@@ -78,7 +78,7 @@ figcaption
 }
 
 
-#show-more-button{
+show-more-button{
     background-color: #008cba;
     font-size: 18px;
     border: none;
