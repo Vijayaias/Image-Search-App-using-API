@@ -78,7 +78,7 @@ container{
 }
 
 
-show-more-button{
+.show-more-button{
     background-color: #008cba;
     font-size: 18px;
     border: none;
@@ -86,10 +86,10 @@ show-more-button{
     padding: 10px 20px;
     text-align: center;
     
-    margin: 30px auto;
+    margin: 0 auto;
     border-radius: 5px;
     cursor: pointer;
-    display: none;
+    display: block;
 }
 @media screen and (max-width:768px){
     .search-results{
